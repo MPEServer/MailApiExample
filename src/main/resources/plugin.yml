@@ -1,0 +1,7 @@
+name: MailApiExample
+main: test.Main
+version: "0.1"
+api: ["1.0.0"]
+commands:
+  mail:
+    usage: "/send [from] [to] [title] [text]"
